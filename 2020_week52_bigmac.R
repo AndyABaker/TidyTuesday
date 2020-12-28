@@ -18,7 +18,7 @@ p <- big_mac %>% filter(name != "United States", !is.na(usd_adjusted)) %>%
   theme_minimal() +
   labs(title = "The Big Mac Index",
        subtitle = "<span style='font-size:11pt'>Invented by The Economist in 1986, the big mac index is a lighthearted guide to whether currencies are at their correct level. It is based on the theory of purchasing-power parity (PPP), the notion that in the long run exchange rates should move towards the rate that would equalise the prices of an identical basket of goods and services (in this case, a burger) in any two countries. Here we show how the GDP adjusted index conveys whether each currency is
-**<span style='color:#52b788;'>over</span>**, or 
+**<span style='color:#52b788;'>over</span>**- or 
 **<span style='color:#e63946;'>under</span>**-valued.
   </span>",
        caption = "Source: The Economist | Visualisation: @Andy_A_Baker",
