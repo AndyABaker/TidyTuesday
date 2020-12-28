@@ -12,7 +12,8 @@ big_mac <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/ti
 p <- big_mac %>% filter(name != "United States", !is.na(usd_adjusted)) %>% 
   ggplot(aes(date, usd_adjusted)) + 
   geom_flame(aes(x = date, y2 = usd_adjusted, y = 0), fill = "#e63946") +
-  geom_flame(aes(x = date, y = usd_adjusted, y2 = 0), fill = "#52b788") +
+  geom_flame(aes(x = date, y = usd_adjusted, y2 = 0), fill = "#52b788") + 
+  scale_y_continuous(labels = scales::percent) + 
   geom_hline(yintercept = 0) + 
   facet_wrap(vars(name), ncol = 6) + 
   theme_minimal() +
