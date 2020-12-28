@@ -1,7 +1,7 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) archive
 A repository of my contributions to TidyTuesday.
 
-## 22/12/2020 Week 52: The Big Mac Index [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week52_bigmac.R)
+## 22/12/2020 Week 52: Big Mac Index [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week52_bigmac.R)
 First time using geom_flame (heatwaveR) to produce simple area plots and ggtext to alter the subtitle colours.
 ![BigMac](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week52_bigmac.jpeg)
 
