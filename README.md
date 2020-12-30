@@ -10,4 +10,5 @@ Experimental first attempt using the arcdiagram package. Obstacle coincidence in
 ![NinjaWarrior](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week51_ninjawarrior.png)
 
 ## 8/12/2020 Week 50: Women of 2020 [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week50_bbcwomen.R)
+First time generating wordclouds in R.
 ![BBCWomen2020](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week50_bbcwomen.jpeg)
