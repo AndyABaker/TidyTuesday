@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) archive
 A repository of my contributions to TidyTuesday.
 
+## 05/01/2021 Week 02: Transit Costs Project [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week01_transitcost.R)
+First time using ggMarginal (ggExtra) to produce marginal density plots and geom_text_repel (ggrepel) to add labels.
+![BigMac](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week01_transitcosts.jpeg)
+
 ## 22/12/2020 Week 52: Big Mac Index [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week52_bigmac.R)
 First time using geom_flame (heatwaveR) to produce simple area plots and ggtext to alter the subtitle colours.
 ![BigMac](https://github.com/AndyABaker/TidyTuesday/blob/main/2020_week52_bigmac.jpeg)
