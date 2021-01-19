@@ -36,7 +36,8 @@ art <- art %>% mutate(area = height*width,
   scale_colour_manual(values = c("#062E37", "#0E6C81", "#16A9CA")) + 
   theme_minimal() + 
   labs(x = "Width (mm)",
-       y = "Height (mm)") + 
+       y = "Height (mm)",
+       caption = "Source: Tate Collection | Visualisation: @Andy_A_Baker") + 
   coord_fixed(ratio = 1, clip = "off") + 
   theme(legend.position = "none",
         panel.background = element_rect(fill = "#EDFAFD", colour = "#EDFAFD"),
