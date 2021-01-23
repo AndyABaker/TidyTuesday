@@ -131,6 +131,4 @@ p2 <- kenya_sf_religion %>%
 
 (p <- p2 | p1)
 
-
 ggsave(p, dpi = 300, width = 15, height = 10, units = "in", filename = "2021_week03_kenyacensus.jpeg", device = "jpeg")
-
