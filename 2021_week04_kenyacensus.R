@@ -117,7 +117,7 @@ p2 <- kenya_sf_religion %>%
   scale_y_log10(labels = comma) + 
   #coord_fixed(ratio = 1, clip = "off") + 
   scale_colour_manual(values = c("#0077b8", "#f77f00", "#fcbf49", "#6fae71", "#FAF9EF", "#d62828")) + 
-  labs(x = "Total county population",
+  labs(x = "\nTotal county population",
        y = "Religious population") + 
   theme_minimal() + 
   theme(legend.position = "none",
@@ -131,4 +131,4 @@ p2 <- kenya_sf_religion %>%
 
 (p <- p2 | p1)
 
-ggsave(p, dpi = 300, width = 15, height = 10, units = "in", filename = "2021_week03_kenyacensus.jpeg", device = "jpeg")
+ggsave(p, dpi = 300, width = 15, height = 10, units = "in", filename = "2021_week04_kenyacensus.jpeg", device = "jpeg")
