@@ -1,4 +1,4 @@
-# [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) archive
+# [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A repository of my contributions to TidyTuesday.
 
 ## 19/01/2021 Week 04: Kenya Census [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week04_kenyacensus.R)
