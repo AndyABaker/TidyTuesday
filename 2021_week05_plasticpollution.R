@@ -52,6 +52,7 @@ label_data$angle<-ifelse(angle < -90, angle + 180, angle)
       axis.title = element_blank(),
       panel.grid = element_blank()
     ) + 
+    labs(caption = "Source: Break Free from Plastic | Visualisation: @Andy_A_Baker") + 
     geom_text(data = label_data, aes(x = id, y = value + 200, label = parent_company, hjust = hjust), 
               color = "black", 
               fontface = "bold", 
