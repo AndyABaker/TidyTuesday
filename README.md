@@ -1,8 +1,8 @@
-# [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) archive
+# [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A repository of my contributions to TidyTuesday.
 
-## 19/01/2021 Week 04: Kenya Census [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week04_kenyacensus.RR)
-The East-West divide between Christianity and Islam in Kenya. I've never attempted using pie charts (scatterpie) on a map before. Not so sure if I like it, but interesting nonetheless.
+## 19/01/2021 Week 04: Kenya Census [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week04_kenyacensus.R)
+The East-West divide between Christianity and Islam in Kenya. I've never attempted using pie charts (scatterpie) on a map before.
 ![kenyacensus](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week04_kenyacensus.jpeg)
 
 ## 12/01/2021 Week 03: Art Collections [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week03_artcollections.R)
