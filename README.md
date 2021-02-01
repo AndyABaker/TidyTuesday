@@ -2,7 +2,7 @@
 A collection of my contributions to TidyTuesday.
 
 ## 26/01/2021 Week 05: Plastic Pollution [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week05_plasticpollution.R)
-Of the collected litter recorded by "Break Free from Plastic", the Coca-Cola Company has really taken the lead.
+Of the litter recorded, the Coca-Cola Company has really taken the lead. I couldn't work out how to crop the plot area so I settled with the minimalist look.
 ![plasticpollution](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week05_plasticpollution.jpeg)
 
 ## 19/01/2021 Week 04: Kenya Census [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week04_kenyacensus.R)
