@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 02/02/2021 Week 06: HBCU Enrollment [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week06_hbcuenrollment.R)
+Just reminding myself on the basics of geom_text this week.
+![hbcuenrollment](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week06_hbcuenrollment.jpeg)
+
 ## 26/01/2021 Week 05: Plastic Pollution [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week05_plasticpollution.R)
 Of the litter recorded, the Coca-Cola Company has really taken the lead. I couldn't work out how to crop the plot area so I settled with the minimalist look.
 ![plasticpollution](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week05_plasticpollution.jpeg)
