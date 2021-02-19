@@ -2,7 +2,7 @@
 A collection of my contributions to TidyTuesday.
 
 ## 16/02/2021 Week 08: W.E.B. Du Bois Challenge [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week08_webduboischallenge.R)
-<img src="https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week08_webduboischallenge.jpeg" width="600"/><img src="https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/challenge04/original-plate-51.jpg" width="600"/>
+<img src="https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week08_webduboischallenge.jpeg" width="500"/><img src="https://github.com/ajstarks/dubois-data-portraits/blob/master/challenge/challenge04/original-plate-51.jpg" width="500"/>
 
 ## 09/02/2021 Week 07: Wealth and Income [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week07_wealthandincome.R)
 It was a challenge working out how best to visualise this data. I tried to avoid using legends by substituting them with colour coding and labelling.
