@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 09/02/2021 Week 07: Wealth and Income [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week07_wealthandincome.R)
+It was a challenge working out how best to visualise this data. I tried to avoid using legends by substituting them with colour coding and labelling.
+![wealthandincome](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week07_wealthandincome.jpeg)
+
 ## 02/02/2021 Week 06: HBCU Enrollment [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week06_hbcuenrollment.R)
 Just reminding myself on the basics of geom_text this week.
 ![hbcuenrollment](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week06_hbcuenrollment.jpeg)
