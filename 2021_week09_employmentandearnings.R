@@ -42,7 +42,7 @@ earn_f %>%
                             <br>By 2020, Asian women earned $380 less than men, whilst<br>Black or African American women earned just $37 less.", 
                     x = 2013.5, y = 1400), label.color = NA) + 
   labs(y = "Median weekly earnings",
-       caption = "Persons aged 25 years and over.\nSource: US Bureau of Labor Statistics | Visualisation: @Andy_A_Baker") + 
+       caption = "Men plotted as circles, women plotted as diamonds. Data is for persons aged 25 years and over.\nSource: US Bureau of Labor Statistics | Visualisation: @Andy_A_Baker") + 
   theme(legend.position = "none",
         panel.background = element_rect(fill = "white", colour = NA),
         plot.background = element_rect(fill = "white", colour = NA),
