@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 23/02/2021 Week 09: Employment and Earnings [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week09_employmentandearnings.R)
+A dumbbell plot is always a good shout for plotting inequalities.
+![employmentandearnings](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week09_employmentandearnings.jpeg)
+
 ## 16/02/2021 Week 08: W.E.B. Du Bois Challenge [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week08_webduboischallenge.R)
 My attempt (left) at replicating a classic chart from Du Bois (right) for the #DuBoisChallenge.
 
