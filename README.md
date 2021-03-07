@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 02/03/2021 Week 10: SuperBowl Ads [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week10_superbowlads.R)
+I love the look of stream graphs with ggstream, but I'm uneasy with the amount of smoothing going on.
+![superbowlads](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week10_superbowlads.jpeg)
+
 ## 23/02/2021 Week 09: Employment and Earnings [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week09_employmentandearnings.R)
 A dumbbell plot is always a good shout for plotting inequalities.
 ![employmentandearnings](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week09_employmentandearnings.jpeg)
