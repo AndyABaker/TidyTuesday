@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 09/03/2021 Week 11: Bechdel Test [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week11_bechdeltest.R)
+It looks like action, adventure, and comedy movies that passed the Bechdel test have been generally more profitable in recent years. The opposite seems to be true for thrillers.
+![bechdeltest](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week11_bechdeltest.jpeg)
+
 ## 02/03/2021 Week 10: SuperBowl Ads [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week10_superbowlads.R)
 I love the look of stream graphs with ggstream, but I'm uneasy with the amount of smoothing going on.
 ![superbowlads](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week10_superbowlads.jpeg)
