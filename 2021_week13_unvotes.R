@@ -216,7 +216,7 @@ p <- ((p_ac | p_co) / (p_ed | p_hr) / (p_nw | p_pc)) +
   **<span style='color:#81b29a;'>America</span>**, 
   **<span style='color:#f2cc8f;'>Asia</span>**, 
   **<span style='color:#3d405b;'>Europe</span>**, and 
-  **<span style='color:#9a94bc;'>Oceaina</span>**, 1946-2019.
+  **<span style='color:#9a94bc;'>Oceania</span>**, 1946-2019.
   </span>",
                   caption = "Plots of first two UMAP components. The United Kingdom is highlighted as a red triangle.\nSource: Harvard Dataverse | Visualisation: @Andy_A_Baker",
                   theme = theme(plot.margin = margin(10, 10, 10, 10),
