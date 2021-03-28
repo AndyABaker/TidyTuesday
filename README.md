@@ -2,7 +2,7 @@
 A collection of my contributions to TidyTuesday.
 
 ## 23/03/2021 Week 13: UN Votes [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week13_unvotes.R)
-UMAP dimentionality reduction for the UN voting patterns (inspired by [Julia Silge's blog post](https://juliasilge.com/blog/un-voting/)), split by issue and continent.
+UMAP dimensionality reduction for the UN voting patterns (inspired by [Julia Silge's blog post](https://juliasilge.com/blog/un-voting/)), split by issue and continent.
 ![unvotes](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week13_unvotes.jpeg)
 
 ## 16/03/2021 Week 12: Video Games + Sliced [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week12_videogamessliced.R)
