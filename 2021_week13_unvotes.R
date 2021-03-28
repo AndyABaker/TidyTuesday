@@ -158,7 +158,7 @@ p_ac <- bake(umap_prep_ac, new_data = NULL) %>%
   ggplot(aes(umap_1, umap_2, label = country, colour = continent)) +
   geom_point(data = subset(bake(umap_prep_ac, new_data = NULL), country != "United Kingdom"), alpha = 0.7, size = 2) + 
   geom_point(data = subset(bake(umap_prep_ac, new_data = NULL), country == "United Kingdom"), colour = "#3d405b", fill = "red", size = 2, shape = 24) + 
-  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 5) +  
+  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 6) +  
   scale_colour_continent + 
   labs(title = "Arms control and disarmament") + 
   theme(plot.title = element_text(family = "Rubik", face = "bold", hjust = 0.5, size = 70))
@@ -167,7 +167,7 @@ p_co <- bake(umap_prep_co, new_data = NULL) %>%
   ggplot(aes(umap_1, umap_2, label = country, colour = continent)) +
   geom_point(data = subset(bake(umap_prep_co, new_data = NULL), country != "United Kingdom"), alpha = 0.7, size = 2) + 
   geom_point(data = subset(bake(umap_prep_co, new_data = NULL), country == "United Kingdom"), colour = "#3d405b", fill = "red", size = 2, shape = 24) + 
-  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 5) + 
+  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 6) + 
   scale_colour_continent + 
   labs(title = "Colonialism") + 
   theme(plot.title = element_text(family = "Rubik", face = "bold", hjust = 0.5, size = 70))
@@ -176,7 +176,7 @@ p_ed <- bake(umap_prep_ed, new_data = NULL) %>%
   ggplot(aes(umap_1, umap_2, label = country, colour = continent)) +
   geom_point(data = subset(bake(umap_prep_ed, new_data = NULL), country != "United Kingdom"), alpha = 0.7, size = 2) + 
   geom_point(data = subset(bake(umap_prep_ed, new_data = NULL), country == "United Kingdom"), colour = "#3d405b", fill = "red", size = 2, shape = 24) + 
-  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 5) + 
+  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 6) + 
   scale_colour_continent + 
   labs(title = "Economic development") + 
   theme(plot.title = element_text(family = "Rubik", face = "bold", hjust = 0.5, size = 70))
@@ -185,7 +185,7 @@ p_hr <- bake(umap_prep_hr, new_data = NULL) %>%
   ggplot(aes(umap_1, umap_2, label = country, colour = continent)) +
   geom_point(data = subset(bake(umap_prep_hr, new_data = NULL), country != "United Kingdom"), alpha = 0.7, size = 2) + 
   geom_point(data = subset(bake(umap_prep_hr, new_data = NULL), country == "United Kingdom"), colour = "#3d405b", fill = "red", size = 2, shape = 24) + 
-  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 5) +  
+  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 6) +  
   scale_colour_continent + 
   labs(title = "Human rights") + 
   theme(plot.title = element_text(family = "Rubik", face = "bold", hjust = 0.5, size = 70))
@@ -194,7 +194,7 @@ p_nw <- bake(umap_prep_nw, new_data = NULL) %>%
   ggplot(aes(umap_1, umap_2, label = country, colour = continent)) +
   geom_point(data = subset(bake(umap_prep_nw, new_data = NULL), country != "United Kingdom"), alpha = 0.7, size = 2) + 
   geom_point(data = subset(bake(umap_prep_nw, new_data = NULL), country == "United Kingdom"), colour = "#3d405b", fill = "red", size = 2, shape = 24) + 
-  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 5) + 
+  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 6) + 
   scale_colour_continent + 
   labs(title = "Nuclear weapons and nuclear material") + 
   theme(plot.title = element_text(family = "Rubik", face = "bold", hjust = 0.5, size = 70))
@@ -203,7 +203,7 @@ p_pc <- bake(umap_prep_pc, new_data = NULL) %>%
   ggplot(aes(umap_1, umap_2, label = country, colour = continent)) +
   geom_point(data = subset(bake(umap_prep_pc, new_data = NULL), country != "United Kingdom"), alpha = 0.7, size = 2) + 
   geom_point(data = subset(bake(umap_prep_pc, new_data = NULL), country == "United Kingdom"), colour = "#3d405b", fill = "red", size = 2, shape = 24) + 
-  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 5) + 
+  geom_text_repel(max.overlaps = Inf, segment.alpha = 0.2, family = "Rubik", size = 6) + 
   scale_colour_continent + 
   labs(title = "Palestinian conflict") + 
   theme(plot.title = element_text(family = "Rubik", face = "bold", hjust = 0.5, size = 70))
