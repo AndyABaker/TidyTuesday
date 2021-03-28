@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 16/03/2021 Week 12: Video Games + Sliced [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week12_videogamessliced.R)
+Quite an intriguing EDA this week. What happened to games releasing with less than 10 average players after 2018?
+![videogamessliced](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week12_videogamessliced.jpeg)
+
 ## 09/03/2021 Week 11: Bechdel Test [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week11_bechdeltest.R)
 It looks like action, adventure, and comedy movies that passed the Bechdel test have been generally more profitable in recent years. The opposite seems to be true for thrillers.
 ![bechdeltest](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week11_bechdeltest.jpeg)
