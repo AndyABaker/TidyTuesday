@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 30/03/2021 Week 14: Makeup Shades [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week14_makeupshades.R)
+Just a quick and simple plot this week, but I discovered scale_colour_identity() so well worth it :)
+![makeupshades](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week14_makeupshades.jpeg)
+
 ## 23/03/2021 Week 13: UN Votes [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week13_unvotes.R)
 UMAP dimensionality reduction for the UN voting patterns (inspired by [Julia Silge's blog post](https://juliasilge.com/blog/un-voting/)) split by issue and continent.
 ![unvotes](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week13_unvotes.jpeg)
