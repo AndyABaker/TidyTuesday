@@ -76,7 +76,7 @@ p <- d_soy %>%
   annotation_custom(grob = grid::rectGrob(gp = grid::gpar(col = NA, fill = "white")), xmin = 2013.4) + 
   geom_text(data = subset(d_soy, year == 2013 & fill_entity != "#e5e5e5"), aes(y = label_pos, label = entity), nudge_x = 0.5, hjust = 0, size = 8) + 
   annotate(geom = "text", label = "Between 1961 and 2013,\nglobal soybean use increased\nfrom 22 million tonnes to",
-                    x = 1963, y = 225000000, hjust = 0, lineheight = 0.33, size = 35, colour = "black") + 
+           x = 1963, y = 225000000, hjust = 0, lineheight = 0.33, size = 35, colour = "black") + 
   annotate(geom = "text", label = "bold('255 million')",
            x = 1963, y = 186000000, hjust = 0, lineheight = 0.33, size = 60, colour = "black", parse = TRUE) + 
   annotate(geom = "text", label = "bold('tonnes.')",
