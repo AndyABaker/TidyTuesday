@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 06/04/2021 Week 15: Global deforestation [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week15_globaldeforestation.R)
+First time making use of geom_sankey_bump and I'm loving it.
+![globaldeforestation](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week15_globaldeforestation.jpeg)
+
 ## 30/03/2021 Week 14: Makeup Shades [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week14_makeupshades.R)
 Just a quick and simple plot this week, but I discovered scale_colour_identity() so well worth it :)
 ![makeupshades](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week14_makeupshades.jpeg)
