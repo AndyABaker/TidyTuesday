@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 20/04/2021 Week 17: Netflix Titles [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week17_netflixtitles.R)
+I'm still figuring out these network plots, but this was interesting nonetheless.
+![netflixtitles](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week17_netflixtitles.png)
+
 ## 13/04/2021 Week 16: US Post Offices [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week16_postoffices.R)
 It's so satisfying to watch the wave of post offices move west.
 ![postoffices](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week16_postoffices.gif)
