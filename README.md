@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 27/04/2021 Week 18: CEO Departures [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week18_ceodepartures.R)
+Text analysis is certainly growing on me. Even fairly simplistic frequency statistics are so insightful.
+![netflixtitles](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week18_ceodepartures.jpeg)
+
 ## 20/04/2021 Week 17: Netflix Titles [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week17_netflixtitles.R)
 I'm still figuring out these network plots, but this was interesting nonetheless.
 ![netflixtitles](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week17_netflixtitles.png)
