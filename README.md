@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 18/05/2021 Week 21: Ask a Manager Salary Survey [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week21_askamanagersalarysurvey.R)
+I'm really enjoying learning about using tokenized text as predictors in modelling from https://smltar.com/
+![askamanagersalarysurvey](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week21_askamanagersalarysurvey.jpeg)
+
 ## 11/05/2021 Week 20: US Broadband [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week20_usbroadband.R)
 My first time using the amazing ggiraph package, visualising broadband access and usage across the US.
 ![usbroadband](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week20_usbroadband.gif)
