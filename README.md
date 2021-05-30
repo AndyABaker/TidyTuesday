@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 25/05/2021 Week 22: Mario Kart World Records [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week22_mariokartworldrecords.R)
+I've only just discovered the ggflags package - this solves so many labelling problems.
+![mariokartworldrecords](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week22_mariokartworldrecords.jpeg)
+
 ## 18/05/2021 Week 21: Ask a Manager Salary Survey [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week21_askamanagersalarysurvey.R)
 I'm really enjoying learning about using tokenized text as predictors in modelling from https://smltar.com/
 ![askamanagersalarysurvey](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week21_askamanagersalarysurvey.jpeg)
