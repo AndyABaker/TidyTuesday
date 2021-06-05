@@ -1,6 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
+## 25/05/2021 Week 23: Survivor TV Show [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week23_survivortvshow.R)
+There was huge variation in total votes received for each personality type, but extroverts were generally more popular.
+![survivortvshow](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week23_survivortvshow.jpeg)
+
 ## 25/05/2021 Week 22: Mario Kart World Records [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week22_mariokartworldrecords.R)
 I've only just discovered the ggflags package - this solves so many labelling problems.
 ![mariokartworldrecords](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week22_mariokartworldrecords.jpeg)
