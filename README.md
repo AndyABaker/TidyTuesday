@@ -1,11 +1,15 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 A collection of my contributions to TidyTuesday.
 
-## 25/05/2021 Week 24: Great Lakes Fish [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week24_greatlakesfish.R)
+## 15/06/2021 Week 25: WEB Du Bois and Juneteenth [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week25_webduboisandjuneteenth.R)
+I ran out of ideas this week so brushed up on some simple text analyses.
+![webduboisandjuneteenth](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week25_webduboisandjuneteenth.jpeg)
+
+## 08/06/2021 Week 24: Great Lakes Fish [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week24_greatlakesfish.R)
 First time using a map as a legend - I should probably do this more often.
 ![greatlakesfish](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week24_greatlakesfish.jpeg)
 
-## 25/05/2021 Week 23: Survivor TV Show [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week23_survivortvshow.R)
+## 01/06/2021 Week 23: Survivor TV Show [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week23_survivortvshow.R)
 There was huge variation in total votes received for each personality type, but extroverts were generally more popular.
 ![survivortvshow](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week23_survivortvshow.jpeg)
 
