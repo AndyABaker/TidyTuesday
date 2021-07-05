@@ -1,5 +1,10 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
-A collection of my contributions to TidyTuesday.
+A collection of my contributions to TidyTuesday.<br>
+Please note, I often use #TidyTuesday to develop my technical abilities in data visualisation at the expense of not always producing something particularly meaningful or useful.
+
+## 22/06/2021 Week 26: Public Park Access [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week26_publicparkaccess.R)
+Finally found a reason to use trigonometric functions in a visualisation.
+![publicparkaccess](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week26_publicparkaccess.jpeg)
 
 ## 15/06/2021 Week 25: WEB Du Bois and Juneteenth [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week25_webduboisandjuneteenth.R)
 I ran out of ideas this week so brushed up on some simple text analyses.
