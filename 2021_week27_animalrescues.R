@@ -41,14 +41,18 @@ animal_wards_london <- wards %>%
     ggplot() + 
     geom_sf(aes(fill = n), lwd = NA) + 
     scale_fill_viridis_c(option = "E") + 
+    scale_x_continuous(limits = c(-0.483, 0.28)) + 
     theme_void() + 
     labs(title = "Animal rescues by the London Fire Brigade, 2009-2019",
          caption = "Source: London.gov | Visualisation: @Andy_A_Baker")) + 
   theme(legend.position = "none",
         plot.caption = element_text(family = "Rubik", size = 35),
-        plot.title = element_text(face = "bold", size = 60, hjust = 0.5),
-        plot.margin = margin(10, 10, 10, 10)) + 
-  inset_element(hist, left = 0, bottom = 0, right = 0.4, top = 0.35)
+        plot.title = element_text(face = "bold", size = 70, hjust = 0.5),
+        panel.background = element_rect(fill = "#F7F6F3", colour = NA),
+        plot.background = element_rect(fill = "#F7F6F3", colour = NA),
+        panel.border = element_blank(),
+        plot.margin = margin(10, 10, 10, 10)) +  
+  inset_element(hist, left = 0, bottom = -0.02, right = 0.4, top = 0.35)
 
-ggsave(dpi = 300, width = 12, height = 10, units = "in", type = "cairo",
+ggsave(dpi = 300, width = 12, height = 10.84, units = "in", type = "cairo",
        filename = "2021_week27_animalrescues.jpeg", device = "jpeg")
