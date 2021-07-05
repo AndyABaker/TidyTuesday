@@ -5,6 +5,7 @@ font_add_google("Rubik")
 showtext_auto()
 library(Cairo)
 library(viridis)
+library(patchwork)
 
 tuesdata <- tidytuesdayR::tt_load(2021, week = 27)
 animal_rescues <- tuesdata$animal_rescues
