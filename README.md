@@ -2,6 +2,10 @@
 A collection of my contributions to TidyTuesday.<br>
 Please note, I often use #TidyTuesday to develop my technical abilities in data visualisation at the expense of not always producing something particularly meaningful or useful.
 
+## 22/06/2021 Week 27: Animal Rescues [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week27_animalrescues.R)
+Histogram legends > normal legends
+![animalrescues](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week27_animalrescues.jpeg)
+
 ## 22/06/2021 Week 26: Public Park Access [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week26_publicparkaccess.R)
 Finally found a reason to use trigonometric functions in a visualisation.
 ![publicparkaccess](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week26_publicparkaccess.jpeg)
