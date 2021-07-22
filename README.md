@@ -2,6 +2,10 @@
 A collection of my contributions to TidyTuesday.<br>
 Please note, I often use #TidyTuesday to develop my technical abilities in data visualisation at the expense of not always producing something particularly meaningful or useful.
 
+## 06/07/2021 Week 28: International Independence Days [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week28_internationalindependencedays.R)
+I've always found network graphs really confusing to code.
+![internationalindependencedays](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week28_internationalindependencedays.jpeg)
+
 ## 22/06/2021 Week 27: Animal Rescues [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week27_animalrescues.R)
 Histogram legends > normal legends
 ![animalrescues](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week27_animalrescues.jpeg)
