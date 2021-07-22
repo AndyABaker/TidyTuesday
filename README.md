@@ -2,6 +2,10 @@
 A collection of my contributions to TidyTuesday.<br>
 Please note, I often use #TidyTuesday to develop my technical abilities in data visualisation at the expense of not always producing something particularly meaningful or useful.
 
+## 13/07/2021 Week 29: Scooby Doo [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week29_scoobydoo.R)
+I just went with a really quick network plot of common bigrams this week.
+![scoobydoo](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week29_scoobydoo.jpeg)
+
 ## 06/07/2021 Week 28: International Independence Days [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week28_internationalindependencedays.R)
 I've always found network graphs really confusing to code.
 ![internationalindependencedays](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week28_internationalindependencedays.jpeg)
