@@ -98,7 +98,7 @@ map <- map_usa %>%
        Source: Drought Monitor | Visualisation: @Andy_A_Baker",
        fill = NULL) + 
   theme_void() + 
-  theme(legend.spacing.y = unit(0.3, "cm"),
+  theme(legend.spacing.y = unit(0.35, "cm"),
         legend.spacing.x = unit(3, "cm"),
         legend.position = c(0.5, 0.98),
         legend.key.width = unit(11, "cm"),
@@ -117,6 +117,6 @@ map <- map_usa %>%
         plot.margin = margin(50, 10, 30, 10)) + 
   transition_manual(frames = valid_start)
 
-animate(map, fps = 8, width = 2500, height = 2000, 
+animate(map, fps = 8, width = 2500, height = 1565, 
         renderer = gifski_renderer(loop = TRUE), end_pause = 15)
 anim_save("2021_week30_usdroughts.gif")
