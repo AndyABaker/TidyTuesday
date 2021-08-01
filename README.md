@@ -2,6 +2,10 @@
 A collection of my contributions to TidyTuesday.<br>
 Please note, I often use #TidyTuesday to develop my technical abilities in data visualisation at the expense of not always producing something particularly meaningful or useful.
 
+## 27/07/2021 Week 31: Olympic Medals [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week31_olympicmedals.R)
+I'm fascinated by the huge variation in heights (136-223cm) and weights (28-182kg) in past Olympians. 
+![olympicmedals](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week31_olympicmedals.jpeg)
+
 ## 20/07/2021 Week 30: US Droughts [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week30_usdroughts.R)
 I find this colour scheme really satisfying.
 ![usdroughts](https://github.com/AndyABaker/TidyTuesday/blob/main/2021_week30_usdroughts.gif)
