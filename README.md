@@ -2,9 +2,11 @@
 A collection of my contributions to TidyTuesday.  
 Please note, I use #TidyTuesday to develop my skills in data visualisation at the expense of not always producing something particularly meaningful or useful.
 
+---
+
 ## 28/10/2025 Week 43: British Literary Prizes [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/PydyTuesday/2025_week43_britishliteraryprizes.ipynb)
 First attempt at #PydyTuesday!
-![britishliteraryprizes]([https://github.com/AndyABaker/TidyTuesday/blob/main/TidyTuesday/2021_week31_olympicmedals.jpeg](https://github.com/AndyABaker/TidyTuesday/blob/main/PydyTuesday/2025_week43_britishliteraryprizes.png))
+![britishliteraryprizes](https://github.com/AndyABaker/TidyTuesday/blob/main/PydyTuesday/2025_week43_britishliteraryprizes.png)
 
 ---
 
