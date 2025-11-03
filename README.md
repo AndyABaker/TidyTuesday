@@ -1,6 +1,12 @@
 # [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
-A collection of my contributions to TidyTuesday.<br>
-Please note, I often use #TidyTuesday to develop my technical abilities in data visualisation at the expense of not always producing something particularly meaningful or useful.
+A collection of my contributions to TidyTuesday.  
+Please note, I use #TidyTuesday to develop my skills in data visualisation at the expense of not always producing something particularly meaningful or useful.
+
+## 28/10/2025 Week 43: British Literary Prizes [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/PydyTuesday/2025_week43_britishliteraryprizes.ipynb)
+First attempt at #PydyTuesday!
+![britishliteraryprizes]([https://github.com/AndyABaker/TidyTuesday/blob/main/TidyTuesday/2021_week31_olympicmedals.jpeg](https://github.com/AndyABaker/TidyTuesday/blob/main/PydyTuesday/2025_week43_britishliteraryprizes.png))
+
+---
 
 ## 27/07/2021 Week 31: Olympic Medals [(code)](https://github.com/AndyABaker/TidyTuesday/blob/main/TidyTuesday/2021_week31_olympicmedals.R)
 I'm fascinated by the huge variation in heights (136-223cm) and weights (28-182kg) in past Olympians. 
